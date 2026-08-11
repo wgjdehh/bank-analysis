@@ -6,7 +6,7 @@
 <img width="1292" height="697" alt="Screenshot 2025-07-17 200624" src="https://github.com/user-attachments/assets/1c3521ee-2945-48f5-8e7d-b95e7365e613" />
 
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 Data Import & Preview: Reads the CSV and displays the initial rows using pandas.
 
 handling misssing values
